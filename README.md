@@ -4,7 +4,7 @@ This is my html css js website about a charity i maked!
 ## A Velvet charity info:
 
 <br>
-<br>
+
 • The charity website is fully working and functional, it took me about a month to develop.
 <br>
 <br>
