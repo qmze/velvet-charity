@@ -11,7 +11,7 @@ This is my html css js website about a charity i maked!
 **• I wanted to make it to help the homeless but couldn't find the time to maintain it.**
 <br>
 <br>
-** • You can visit the official website at https://www.velvetcharity.com/ **
+**• You can visit the official website at https://www.velvetcharity.com/**
 <br>
 <br>
 
